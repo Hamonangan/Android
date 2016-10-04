@@ -1,0 +1,146 @@
+<resources>
+    <string name="app_name">Angkotan</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+    <string name="nav_item_home">Home</string>
+    <string name="nav_item_friends">Friends</string>
+    <string name="nav_item_notifications">Messages</string>
+
+    <!-- navigation drawer item labels  -->
+    <string-array name="nav_drawer_labels">
+        <item>@string/nav_item_home</item>
+        <item>@string/nav_item_friends</item>
+        <item>@string/nav_item_notifications</item>
+    </string-array>
+
+    <string name="title_messages">Messages</string>
+    <string name="title_friends">Friends</string>
+    <string name="title_home">Home</string>
+
+    <string name="hint_form">Form</string>
+    <string name="hint_destination">Destination</string>
+    <string name="hint_search">Search</string>
+    <string name="btn_sign_up">Find out</string>
+    <string name="title_activity_search">SearchActivity</string>
+
+    <string name="hello_world">Hi,selamat datang di aplikasi angkotan. di aplikasi ini kita dapat melihat rute dan kode angkot yang akan kita tuju, aplikasi ini sangat mudah di gunakan. dengan aplikasi ini kita dengan mudah mencari kode angkot yang sesuai jalan.</string>
+    <string name="title_activity_maps">Map Angkot</string>
+    <string name="title_activity_map">MapActivity</string>
+    <string name="title_activity_search1">SearchActivity1</string>
+    <string name="title_activity_main_from">MainFrom</string>
+    <string name="title_activity_asd">Map</string>
+    <string name="title_activity_splash_screen">Map Angkot</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_list_view_layout">list_view_layout</string>
+    <string name="title_activity_about">About</string>
+
+<string name="origin_prompt">Pilih Daerah Asal</string>
+    <string name="destination_prompt">Pilih Daerah Tujuan</string>
+    <string-array name="origin">
+        <item>cililitan</item>
+        <item>pulogadung</item>
+        <item>keong</item>
+        <item>pasar rebo</item>
+        <item>rawamangun</item>
+        <item>kampung melayu</item>
+        <item>kampung rambutan</item>
+        <item>klender</item>
+        <item>bulak ringin</item>
+        <item>terminal cililitan</item>
+        <item>pasar minggu</item>
+        <item>tamini</item>
+        <item>cilincing</item>
+        <item>kalimalang</item>
+        <item>terminal kampung melayu</item>
+        <item>pondok labu</item>
+        <item>kalisari</item>
+        <item>pinang ranti</item>
+        <item>pulo gadung</item>
+        <item>kampung melayu</item>
+    </string-array>
+
+    <string-array name="destination">
+        <item>arundina cibubur</item>
+        <item>pasar rebo</item>
+        <item>tamini</item>
+        <item>bambu apus</item>
+        <item>kayu tinggi</item>
+        <item>ciracas</item>
+        <item>condet</item>
+        <item>cilangkap</item>
+        <item>jambore</item>
+        <item>pinang ranti</item>
+        <item>rawa kuning</item>
+        <item>lampiri</item>
+        <item>pangkalan jati</item>
+        <item>pulogebang</item>
+        <item>transito</item>
+        <item>kranji jakarta</item>
+        <item>klender</item>
+        <item>rorotan</item>
+        <item>gempol</item>
+        <item>stasiun cakung</item>
+        <item>pondok kopi</item>
+        <item>klender jakarta</item>
+        <item>kalimalang</item>
+        <item>pulogebang</item>
+        <item>pulogadung</item>
+        <item>cililitan</item>
+        <item>pondok gede</item>
+        <item>pondok kelapa jakarta</item>
+        <item>kampung rambutan</item>
+        <item>munjul jakarta</item>
+        <item>gandaria</item>
+        <item>pisangan</item>
+        <item>ciganjur</item>
+        <item>jatinegara</item>
+        <item> kayumanis jakarta</item>
+        <item>rawasari jakarta</item>
+        <item>cipinang</item>
+        <item>cilangkap</item>
+        <item>bendungan melayu jakarta</item>
+        <item>pondok kelapa</item>
+        <item>jambore jakarta</item>
+        <item>kalisari</item>
+        <item>pondok bambu</item>
+        <item>taman bunga</item>
+        <item>kampung melayu</item>
+        <item>mekarsari jakarta</item>
+        <item>setu</item>
+        <item>duren sawit</item>
+        <item>perumnas klender</item>
+        <item>cawang</item>
+        <item>cibubur</item>
+        <item>rawamangun</item>
+        <item>harapan jaya</item>
+        <item>pekayon</item>
+        <item>cakung</item>
+        <item>cipayung</item>
+        <item>kompleks pwi jakarta</item>
+        <item>keong</item>
+        <item>klender</item>
+        <item>setu jakarta</item>
+        <item>cijantung</item>
+        <item>pasar kebayoran lama</item>
+        <item>klapa dua wetan</item>
+        <item>kota wisata</item>
+        <item>chandra</item>
+        <item>bj benteng</item>
+        <item>pondok rangon</item>
+        <item>kramat jati</item>
+        <item>condet</item>
+        <item>kramatjati</item>
+        <item>bulak ringin</item>
+        <item>komp halim</item>
+        <item>arundina</item>
+        <item>suci</item>
+        <item>matraman</item>
+        <item>utan kayu</item>
+        <item>pinang ranti</item>
+        <item>lebak bulus</item>
+
+    </string-array>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#8bc34a</color>
+    <color name="colorPrimaryDark">#7cb342</color>
+    <color name="textColorPrimary">#7cb342</color>
+    <color name="windowBackground">#f48fb1</color>
+    <color name="navigationBarColor">#8bc34a</color>
+    <color name="colorAccent">#8bc34a</color>
+    <color name="colorsBackground">#fff</color>
+    <color name="colorsText">#000</color>
+    <color name="MasterMind">#FFF</color>
+    <color name="MasterExit">#c5e1a5</color>
+</resources>
